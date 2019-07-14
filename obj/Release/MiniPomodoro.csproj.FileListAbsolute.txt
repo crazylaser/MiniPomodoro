@@ -1,0 +1,17 @@
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\MiniPomodoro.exe.config
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\MiniPomodoro.exe.manifest
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\MiniPomodoro.application
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\MiniPomodoro.exe
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\MiniPomodoro.pdb
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\VS\MiniPomodoro\MiniPomodoro\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.Form1.resources
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.Properties.Resources.resources
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.csproj.GenerateResource.Cache
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.exe.manifest
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.application
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.exe
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.pdb
+C:\VS\MiniPomodoro\MiniPomodoro\obj\Release\MiniPomodoro.csprojResolveAssemblyReference.cache
